@@ -1,5 +1,0 @@
-
-> jewelry_store_updated@1.0.0 start /home/ubuntu/extracted_jewelry_store/jewelry_project
-> NODE_ENV=production node dist/index.js
-
-Server running on http://localhost:3001/
